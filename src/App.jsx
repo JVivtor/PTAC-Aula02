@@ -1,14 +1,13 @@
-export default function App() {
+import React from 'react';
+import Footer from './footer';
 
-  const nome = "João";
-  const sobreNome = "Santos";
-
-  return(
+const App = () => {
+  return (
     <div>
-        <h1>Hello World</h1>
-        <p>Desenvolvido por: {nome}</p>
-    </div>  
+      {/* Seu código */}
+      <Footer />
+    </div>
   );
-
-
 }
+
+export default App;
