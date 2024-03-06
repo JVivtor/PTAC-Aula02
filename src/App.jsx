@@ -1,4 +1,5 @@
 import Footer from "./Components/Footer "; 
+import "./globals.css"
 
  export default function App() {
 
@@ -14,4 +15,4 @@ import Footer from "./Components/Footer ";
 
  ); 
 
-}
+ }
