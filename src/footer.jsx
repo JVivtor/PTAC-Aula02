@@ -1,11 +1,13 @@
-import React from 'react';
+ export default function Footer(){
 
-const Footer = () => {
-  return (
-    <footer>
-      <p>Desenvolvido por JV</p>
-    </footer>
-  );
-}
-
-export default Footer;
+    return(
+   
+    <footer> 
+   
+    <p>Desenvolvido por Joao Victor (JV)</p> 
+   
+   </footer>
+   
+    ); 
+   
+   } 

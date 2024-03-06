@@ -1,13 +1,17 @@
-import React from 'react';
-import Footer from './footer';
+import Footer from "./Components/Footer "; 
 
-const App = () => {
-  return (
-    <div>
-      {/* Seu código */}
-      <Footer />
-    </div>
-  );
+ export default function App() {
+
+ return (
+
+ <main>
+
+   <Footer/>
+
+     <Footer/>
+
+ </main> 
+
+ ); 
+
 }
-
-export default App;
