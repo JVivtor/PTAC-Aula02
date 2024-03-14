@@ -3,3 +3,7 @@ header{
     background-color: #eeeeef;
     border-bottom: 2px;
 }
+
+body {
+    background: linear-gradient(45deg,#00eeff, #80ff00) no-repeat center center fixed;
+  }
