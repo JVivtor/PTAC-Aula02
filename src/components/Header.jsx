@@ -1,7 +1,9 @@
 export default function Header(){
     return(
-        <Header>
-    <h1>Header</h1>
-    </Header>
+        <header>
+            <center>
+    <h1>𝓐𝓰𝓮𝓷𝓭𝓪 𝓽𝓮𝓵𝓮𝓯𝓸𝓷𝓲𝓬𝓪</h1>
+    </center>
+    </header>
     );
 }

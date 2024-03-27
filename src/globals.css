@@ -1,11 +1,7 @@
 header{
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    text-align: center;
-    background: red;
-    height: 85px;
+    height: 100px;
+    background: rgba(43, 255, 0, 0.732);
+    border-bottom: #e51212 solid;
 
 }
 footer{
@@ -13,10 +9,10 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    text-aligh: center;
-    background-color: blue;
+    text-align: center;
+    background-color: rgb(252, 255, 70);
 
 }
 form{
-    text-aligh: center;
+    text-align: center;
 }
