@@ -1,9 +1,22 @@
 header{
-    height: 100px;
-    background-color: #eeeeef;
-    border-bottom: 2px;
-}
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background: red;
+    height: 85px;
 
-body {
-    background: linear-gradient(45deg,#00eeff, #80ff00) no-repeat center center fixed;
-  }
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-aligh: center;
+    background-color: blue;
+
+}
+form{
+    text-aligh: center;
+}
